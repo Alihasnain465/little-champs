@@ -156,10 +156,10 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto relative z-10">
           <h2 className="text-5xl md:text-8xl font-black italic uppercase text-white mb-16 text-center tracking-tighter">Hum Se <span className="text-orange-400">Rabta</span> Karein</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <a href="https://wa.me/9234194224" target="_blank" className="group bg-white/10 backdrop-blur-md border border-white/20 p-10 rounded-[3rem] hover:bg-white transition-all duration-500 text-center">
+            <a href="https://wa.me/923412494224" target="_blank" className="group bg-white/10 backdrop-blur-md border border-white/20 p-10 rounded-[3rem] hover:bg-white transition-all duration-500 text-center">
               <div className="text-4xl mb-4 group-hover:scale-110 transition-transform">💬</div>
               <h3 className="text-white group-hover:text-gray-900 text-xl font-black uppercase italic">WhatsApp</h3>
-              <p className="text-blue-100 group-hover:text-gray-600 font-bold">+92 341 94224</p>
+              <p className="text-blue-100 group-hover:text-gray-600 font-bold">+92 341 2494224</p>
             </a>
             <div className="group bg-white/10 backdrop-blur-md border border-white/20 p-10 rounded-[3rem] hover:bg-white transition-all duration-500 text-center">
               <div className="text-4xl mb-4 group-hover:scale-110 transition-transform">📍</div>
